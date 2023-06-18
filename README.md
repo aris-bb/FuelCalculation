@@ -1,1 +1,1 @@
-﻿An intentionally contrived example of managing a car fleet and calculating the fuel consumption of a car.
+﻿An intentionally contrived example of managing a car fleet and calculating the fuel consumption of a car. Utilizes various programming concepts such as inheritance, polymorphism, encapsulation, abstraction, interfaces, dependency injection, factory pattern, repository pattern, singleton pattern, command pattern, strategy pattern... and more.
