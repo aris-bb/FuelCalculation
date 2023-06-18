@@ -1,0 +1,1 @@
+﻿An intentionally contrived example of managing a car fleet and calculating the fuel consumption of a car.
